@@ -16,7 +16,6 @@ public class ContaTerminal {
         System.out.println("Por Favor, digite o nome da Agência!");
         agencia = entrada.nextLine();
 
-
         System.out.println("Digite o seu Nome : ");
         nomeDoCliente = entrada.nextLine();
 
